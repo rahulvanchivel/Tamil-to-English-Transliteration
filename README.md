@@ -1,4 +1,4 @@
-Tamil to English Transliteration
+**Tamil to English Transliteration**
 
 A simple **Python** project that transliterates **Tamil text into English** — preserving pronunciation, not meaning.
 It converts Tamil Unicode characters into their equivalent Romanized English representation.
